@@ -1,2 +1,2 @@
 # Netflix-dashboard
-This dashboard is built using tableau tool and various insights a
+This dashboard is built in Tableau, revealing various insights.
